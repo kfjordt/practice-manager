@@ -1,2 +1,3 @@
-# practice-manager
-Single page web app for managing, generating and analyzing practice progress for various musical instruments
+## Practice Manager
+---
+#v.0.0.1
